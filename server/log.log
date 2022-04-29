@@ -1,0 +1,11 @@
+[INFO] 01:47:00:034 Servidor/(15683:15683): Servidor listo para recibir al cliente
+[INFO] 01:47:00:038 Servidor/(15683:15683): Se conecto un cliente!
+[ERROR] 01:47:00:038 Servidor/(15683:15683): el cliente se desconecto. Terminando servidor
+[INFO] 18:40:25:793 Servidor/(4061:4061): Servidor listo para recibir al cliente
+[INFO] 18:46:08:118 Servidor/(4061:4061): Se conecto un cliente!
+[INFO] 18:46:08:118 Servidor/(4061:4061): Me llego el mensaje FLOWERS
+[INFO] 18:46:56:458 Servidor/(4061:4061): Me llegaron los siguientes valores:
+
+[INFO] 18:46:56:459 Servidor/(4061:4061): adfaîŽ8:40
+[INFO] 18:46:56:459 Servidor/(4061:4061): asdfèGy·: Se
+[ERROR] 18:46:56:459 Servidor/(4061:4061): el cliente se desconecto. Terminando servidor
